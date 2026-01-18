@@ -1,0 +1,37 @@
+[
+  {
+    "original_title": "India Launches NEW Policy!!!",
+    "normalized_title": "india launches new policy",
+    "language": "en",
+    "is_duplicate": false,
+    "cleaned_at": "2026-01-17T13:46:46.717984+00:00"
+  },
+  {
+    "original_title": "India launches new policy",
+    "normalized_title": "india launches new policy",
+    "language": "en",
+    "is_duplicate": true,
+    "cleaned_at": "2026-01-17T13:46:46.721473+00:00"
+  },
+  {
+    "original_title": "<b>भारत</b> नई नीति शुरू करता है",
+    "normalized_title": "",
+    "language": "unknown",
+    "is_duplicate": false,
+    "cleaned_at": "2026-01-17T13:46:46.721510+00:00"
+  },
+  {
+    "original_title": "   ",
+    "normalized_title": "",
+    "language": "unknown",
+    "is_duplicate": true,
+    "cleaned_at": "2026-01-17T13:46:46.721519+00:00"
+  },
+  {
+    "original_title": "Indai launches new polciy",
+    "normalized_title": "indai launches new polciy",
+    "language": "cy",
+    "is_duplicate": true,
+    "cleaned_at": "2026-01-17T13:46:46.726974+00:00"
+  }
+]
